@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## Fractional CTO | Built LeanOS on ClaudeSkills
 
   Building and running startups with AI-native operations.
@@ -9,7 +7,7 @@
   - Running ChromlyOS + Detekta simultaneously using LeanOS
 
   **What I do:**
-  - System architecture (category-theoretic design)
+  - System architecture (category-theoretic design) + product development
   - Product development
   - Sales + marketing automation
 
