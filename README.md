@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**BellaBe/BellaBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fractional CTO | Built LeanOS on ClaudeSkills
 
-Here are some ideas to get you started:
+  Building and running startups with AI-native operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Currently:**
+  - Building [LeanOS](https://github.com/BellaBe/lean-os) - AI Operating System for solo founders and small teams
+  - Running ChromlyOS + Detekta simultaneously using LeanOS
+
+  **What I do:**
+  - System architecture (category-theoretic design)
+  - Product development
+  - Sales + marketing automation
+
+  One founder. One AI. Full GTM stack.
+
+  **Stack:** Python, TypeScript/Javascript, Claude
+
+  [LinkedIn](https://www.linkedin.com/in/bellabelgarokova/) | [Website](link)
