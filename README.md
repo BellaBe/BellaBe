@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ## Fractional CTO | Built LeanOS on ClaudeSkills
 
