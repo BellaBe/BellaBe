@@ -7,7 +7,8 @@
   - Running ChromlyOS + Detekta simultaneously using LeanOS
 
   **What I do:**
-  - System architecture (category-theoretic design) + product development
+  - Strategy definition
+  - System architecture (category-theoretic design)
   - Product development
   - Sales + marketing automation
 
