@@ -16,4 +16,4 @@
 
   **Stack:** Python, TypeScript/Javascript, Claude
 
-  [LinkedIn](https://www.linkedin.com/in/bellabelgarokova/) | [Website](link)
+  [LinkedIn](https://www.linkedin.com/in/bellabelgarokova/) | [Website](https://bellabe.github.io/)
