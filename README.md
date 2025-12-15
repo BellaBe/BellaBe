@@ -1,19 +1,17 @@
-## Fractional CTO | Built LeanOS on ClaudeSkills
+ ## Builder | Built LeanOS on Claude Skills
 
-  Building and running startups with AI-native operations.
+  Build products. Run operations. One founder, one AI.
 
   **Currently:**
-  - Building [LeanOS](https://github.com/BellaBe/lean-os) - AI Operating System for solo founders and small teams
-  - Running ChromlyOS + Detekta simultaneously using LeanOS
+  - Building [LeanOS](https://github.com/BellaBe/lean-os) - AI system for building and running a business solo
+  - Operating two products (ChromlyOS, DetektaOS) simultaneously using LeanOS
 
-  **What I do:**
-  - Strategy definition
-  - System architecture (category-theoretic design)
-  - Product development
-  - Sales + marketing automation
+  **For non-technical founders (fractional CTO engagements):**
+  - Architect systems that scale without headcount
+  - Build products from spec to production
+  - Set up your full business operations stack
 
-  One founder. One AI. Full GTM stack.
+  **For technical founders:**
+  - Use [LeanOS](https://github.com/BellaBe/lean-os) directly
 
-  **Stack:** Python, TypeScript/Javascript, Claude
-
-  [LinkedIn](https://www.linkedin.com/in/bellabelgarokova/) | [Website](https://bellabe.github.io/)
+  [LinkedIn](https://linkedin.com/in/bellabelgarokova/) | [Website](https://bellabe.github.io/)
