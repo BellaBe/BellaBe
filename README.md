@@ -1,17 +1,28 @@
-  # Builder | Created LeanOS on Claude Skills
+## Builder | LeanOS — AI Operating System for Founders
 
-  Ship products. Run operations. One founder, one AI.
+Build products. Sell them. Serve customers. Plan strategy. Run experiments. Think rigorously.
 
-  **Currently:**
-  - Creating [LeanOS](https://github.com/BellaBe/lean-os) - AI system for shipping and running a business solo
-  - Operating two products (ChromlyOS, DetektaOS) simultaneously using LeanOS
+One AI system. 181 skills. See every prompt. Own it forever.
 
-  **For non-technical founders (fractional CTO engagements):**
-  - Architect systems that scale without headcount
-  - Take products from spec to production
-  - Set up your full business operations stack
+---
 
-  **For technical founders:**
-  - Use [LeanOS](https://github.com/BellaBe/lean-os) directly
+**Currently building:**
+- [LeanOS](https://github.com/BellaBe/lean-os) — AI Operating System for Founders
+- Building Chromly + Detekta simultaneously on LeanOS
 
-  [LinkedIn](https://linkedin.com/in/bellabelgarokova/) | [Website](https://bellabe.github.io/)
+**What LeanOS does:**
+- Product specs → Production code → Sales → Marketing → Customer Success
+- Claude sees your whole business, not just one function
+- Every prompt readable. Every skill modifiable. No black boxes.
+
+**Pricing:**
+- **Core:** Free — 15 skills, 3 agents ([Try it](https://github.com/BellaBe/lean-os))
+- **Pro:** $500 once — 181 skills, 44 agents ([Get Pro](https://bellabe.github.io/leanos))
+
+Not $3,450/month in SaaS. Own it forever.
+
+---
+
+**For non-technical founders:** [Fractional CTO engagements](https://bellabe.github.io/services)
+
+[LinkedIn](https://linkedin.com/in/bellabelgarokova/) · [LeanOS](https://bellabe.github.io/leanos)
