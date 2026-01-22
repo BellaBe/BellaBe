@@ -6,7 +6,7 @@ One AI system. 181 skills. See every prompt. Own it forever.
 
 ---
 
-**LeanOS Pro** — $500 once
+**LeanOS Pro** - $500 once
 
 The complete system for running a business with AI:
 - Product specs → Production code → Sales → Marketing → Customer Success
@@ -19,6 +19,7 @@ Not $3,450/month in SaaS. Own it forever.
 
 ---
 
-**For non-technical founders:** [Fractional CTO engagements](https://bellabe.github.io/services) — systems that scale without headcount
+**For non-technical founders:** [Fractional CTO engagements](https://bellabe.github.io/services) - systems that scale without headcount
+---
 
 [LinkedIn](https://linkedin.com/in/bellabelgarokova/) · [LeanOS Pro](https://bellabe.github.io/leanos)
