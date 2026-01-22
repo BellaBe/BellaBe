@@ -1,6 +1,11 @@
 ## Builder | LeanOS — AI Operating System for Founders
 
-Build products. Sell them. Serve customers. Plan strategy. Run experiments. Think rigorously.
+Build products. 
+Sell them. 
+Serve customers. 
+Plan strategy. 
+Run experiments. 
+Think rigorously.
 
 One AI system. 181 skills. See every prompt. Own it forever.
 
