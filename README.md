@@ -6,23 +6,19 @@ One AI system. 181 skills. See every prompt. Own it forever.
 
 ---
 
-**Currently building:**
-- [LeanOS](https://github.com/BellaBe/lean-os) — AI Operating System for Founders
-- Building Chromly + Detekta simultaneously on LeanOS
+**LeanOS Pro** — $500 once
 
-**What LeanOS does:**
+The complete system for running a business with AI:
 - Product specs → Production code → Sales → Marketing → Customer Success
 - Claude sees your whole business, not just one function
 - Every prompt readable. Every skill modifiable. No black boxes.
 
-**Pricing:**
-- **Core:** Free — 15 skills, 3 agents ([Try it](https://github.com/BellaBe/lean-os))
-- **Pro:** $500 once — 181 skills, 44 agents ([Get Pro](https://bellabe.github.io/leanos))
+**[Get Pro](https://bellabe.github.io/leanos)** | **[Try Core Free](https://github.com/BellaBe/lean-os)**
 
 Not $3,450/month in SaaS. Own it forever.
 
 ---
 
-**For non-technical founders:** [Fractional CTO engagements](https://bellabe.github.io/services)
+**For non-technical founders:** [Fractional CTO engagements](https://bellabe.github.io/services) — systems that scale without headcount
 
-[LinkedIn](https://linkedin.com/in/bellabelgarokova/) · [LeanOS](https://bellabe.github.io/leanos)
+[LinkedIn](https://linkedin.com/in/bellabelgarokova/) · [LeanOS Pro](https://bellabe.github.io/leanos)
