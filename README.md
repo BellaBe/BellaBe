@@ -1,31 +1,19 @@
-## Builder | LeanOS — AI Operating System for Founders
+## LeanOS — AI Operating System for Founders
 
-- Build products. 
-- Sell them. 
-- Serve customers. 
-- Plan strategy. 
-- Run experiments. 
-- Think rigorously.
+Build · Sell · Serve · Plan · Grow · Think
 
-One AI system. 181 skills. See every prompt. Own it forever.
+181 skills. See every prompt. Own it forever.
 
 ---
 
-**LeanOS Pro** - $500 once
+**LeanOS Pro** — $500 once (not $3,450/month in SaaS)
 
-The complete system for running a business with AI:
 - Product specs → Production code → Sales → Marketing → Customer Success
 - Claude sees your whole business, not just one function
-- Every prompt readable. Every skill modifiable. No black boxes.
+- Every prompt readable. Every skill modifiable.
 
 **[Get Pro](https://bellabe.github.io/leanos)** | **[Try Core Free](https://github.com/BellaBe/lean-os)**
 
-Not $3,450/month in SaaS. Own it forever.
-
 ---
 
-**For non-technical founders:** [Fractional CTO engagements](https://bellabe.github.io/services) - systems that scale without headcount
-
----
-
-[LinkedIn](https://linkedin.com/in/bellabelgarokova/) · [LeanOS Pro](https://bellabe.github.io/leanos)
+[LinkedIn](https://linkedin.com/in/bellabelgarokova/) · [Fractional CTO](https://bellabe.github.io/services)
