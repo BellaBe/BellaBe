@@ -20,6 +20,7 @@ Not $3,450/month in SaaS. Own it forever.
 ---
 
 **For non-technical founders:** [Fractional CTO engagements](https://bellabe.github.io/services) - systems that scale without headcount
+
 ---
 
 [LinkedIn](https://linkedin.com/in/bellabelgarokova/) · [LeanOS Pro](https://bellabe.github.io/leanos)
