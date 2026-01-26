@@ -1,4 +1,4 @@
-  ## LeanOS — AI Operating System for Founders                                           
+  ## LeanOS - AI Operating System for Founders                                           
                                                                                          
   Build · Sell · Serve · Plan · Grow · Think                                             
                                                                                          
