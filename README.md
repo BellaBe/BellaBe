@@ -1,6 +1,6 @@
 # Building LeanOS -- AI Business OS for solo founders
 
-One person. Full business team. 186 skills. 41 agents. 8 domains.
+One person. Full business team. 150+ skills. 30+ agents. 8 domains.
 
 ## What It Is
 
@@ -8,8 +8,8 @@ A structured system of skills and agents that run an entire business through [Cl
 
 ```
 .claude/
-  skills/     # 186 specialized skills (markdown files)
-  agents/     # 41 orchestrating agents (markdown files)
+  skills/     # 150+ specialized skills (markdown files)
+  agents/     # 30+ orchestrating agents (markdown files)
 ```
 
 **Domains:** Build, Sell, Serve, Orchestrate, Plan, Think, Learn, Operate
@@ -29,8 +29,8 @@ Skills and agents are markdown files. Context is shared across all business func
 
 | | Core | Pro |
 |---|---|---|
-| Skills | 15 | 186 |
-| Agents | 2 | 41 |
+| Skills | 15 | 150+ |
+| Agents | 2 | 30+ |
 | Domains | 2 (Plan, Think) | 8 (all) |
 | Price | Free (MIT) | $499 one-time |
 | Engineering | -- | Full stack (Python/FastAPI, Next.js, Shopify, pytest, vitest, linting, security) |
