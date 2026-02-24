@@ -1,4 +1,4 @@
-# LeanOS — AI Business OS for solo founders
+# LeanOS - AI Business OS for solo founders
 
 One person. Five-person output. Strategy, product, market, revenue, intelligence — one orchestrator, one repo.
 
