@@ -1,18 +1,18 @@
-# LeanOS - AI Business OS for solo founders
+# LeanOS — AI Business OS for solo founders
 
 One person. Five-person output. Strategy, product, market, revenue, intelligence — one orchestrator, one repo.
 
 ## What It Is
 
-An AI operating system governed by a single orchestrator. 15 function agents, 172 skills, covering every business domain. Not a chatbot. Not a prompt library. An operator — it observes your business state, identifies gaps, and delegates work to close them.
+An AI operating system governed by a single orchestrator. 20+ specialized agents, 100+ skills, covering every business domain. Not a chatbot. Not a prompt library. An operator — it observes your business state, identifies gaps, and delegates work to close them.
 
 ```
 .claude/
-  skills/     # 172 specialized skills (markdown files)
-  agents/     # 15 function agents + orchestrator (markdown files)
+  skills/     # 100+ specialized skills (markdown files — count them yourself)
+  agents/     # 20+ agents + orchestrator (markdown files)
 ```
 
-**Agents:** builder, converter, nurturer, reacher, strategist, planner, observer, researcher, narrator, modeler, tester, deployer, reviewer, pruner
+**Domains:** strategy, product, engineering, market, revenue, intelligence — each with specialized agents.
 
 Every skill is a readable `.md` file. No compiled code. No hidden prompts. `cat` any file.
 
@@ -29,8 +29,8 @@ Skills and agents are markdown files. Context is shared across all business func
 
 | | Core | Pro |
 |---|---|---|
-| Skills | 15 | 172 |
-| Agents | 3 | 15 + orchestrator |
+| Skills | Starter set | 100+ (growing) |
+| Agents | 3 | 20+ orchestrator-governed |
 | Scope | Plan, Think | All functions |
 | Price | Free (MIT) | $499 one-time |
 | Engineering | -- | Full stack (Python/FastAPI, Next.js, Shopify, pytest, vitest, linting, security) |
