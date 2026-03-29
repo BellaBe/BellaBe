@@ -1,4 +1,4 @@
-# LeanOS — AI Business OS for solo founders
+# LeanOS- AI Business OS for solo founders
 
 One person. Five-person output. Strategy, product, market, revenue, intelligence — one orchestrator, one repo.
 
@@ -41,7 +41,7 @@ Skills and agents are markdown files. Context is shared across all business func
 
 ## Get Started
 
-**Core (free):** [github.com/bellabe/lean-os](https://github.com/bellabe/lean-os)
+**Core (free):** [github.com/bellabe/lean-os](https://github.com/bellabe/leanos)
 
 **Pro ($499):** [bellabe.github.io/leanos](https://bellabe.github.io/leanos)
 
