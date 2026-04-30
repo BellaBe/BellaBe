@@ -1,6 +1,6 @@
 # LeanOS
 
-AInative operating system for solo founders. One person. Fiveperson output.
+AI native operating system for solo founders. One person. Fiveperson output.
 
 LeanOS is a composition of independent modules. Each runs one business function end to end. They compose through the filesystem.
 
