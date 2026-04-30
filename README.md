@@ -8,7 +8,7 @@ LeanOS is a composition of independent modules. Each runs one business function 
 
 | Module | Function | Price |
 |---|---|---|
-| [StrategyOS](https://github.com/BellaBe/strategy-os) | Research, hypothesis, gap analysis | Free — MIT |
+| [StrategyOS](https://github.com/BellaBe/strategy-os) | Research, hypothesis, gap analysis | Free - MIT |
 | RevenueOS | Pipeline, outreach, nurture, retention | Paid |
 | EngineeringOS | Spec → build → verify → deploy | Paid |
 | WriterOS | Long-form content from artifacts | Paid |
