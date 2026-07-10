@@ -9,4 +9,6 @@ Current work:
 
 Building software where mathematical models, formal specifications, and AI agents work together.
 
+https://www.leanos.tech/
+
 UAE
